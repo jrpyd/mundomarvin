@@ -1,0 +1,17 @@
+.first-answer-box {
+  background-color: black;
+}
+
+.middle-answer-box {
+  background-color: black ;
+}
+
+.last-answer-box {
+  background-color:  black;
+}
+
+.text-center {
+  display: flex;
+  padding-top: 5px;
+  justify-content: center;
+}
